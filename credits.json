@@ -1,0 +1,24 @@
+{
+    "0": {
+        "Name": "liaic",
+        "TwitterName": "@liaic",
+        "TwitterURL": "https://twitter.com/liaic",
+        "YouTubeName": "liaic",
+        "YouTubeURL": "None",
+        "Website": "liaic.github.io",
+        "Credits": {
+            "0": "Made this client.",
+            "1": "Keep Update."
+        }
+    },
+    "1": {
+        "Name": "9baidu0",
+        "TwitterName": "@9baidu0",
+        "TwitterURL": "https://twitter.com/9baidu0",
+        "YouTubeName": "9baidu0",
+        "YouTubeURL": "None",
+        "Credits": {
+            "0": "Helped liaic."
+        }
+    }
+}
